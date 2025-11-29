@@ -41,3 +41,4 @@ Another reason for developing this project was to use my data science skills on 
 I built this project specifically for a YouTube creator I know. They wanted to understand which of their videos perform well and what type of content brings the most engagement. The project helps answer questions like which videos viewers watch the most, which topics get the best response, and how the channel is growing over time. It gives them clearer insights than the default YouTube dashboard and helps them plan future content.
 Through this project, I also developed the entire analysis environment using pandas and Jupyter Notebook. The analysis shows top videos, engagement patterns, performance trends, and comparisons between different videos. The goal was to make the data easy to explore and interpret so the creator can improve their channel strategy. Overall, the project shows how data can be used to support content decisions and increase channel performance.
 
+
